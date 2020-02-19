@@ -1,0 +1,11 @@
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb

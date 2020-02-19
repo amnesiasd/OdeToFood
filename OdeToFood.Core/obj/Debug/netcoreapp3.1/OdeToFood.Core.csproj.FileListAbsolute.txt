@@ -1,0 +1,7 @@
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\amnes\OneDrive\AspNetCore.Pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
